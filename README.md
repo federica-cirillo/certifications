@@ -4,8 +4,16 @@ A collection of my professional certifications and training completions.
 
 ## 📄 Certificates
 
+### Project Management Fundamentals - IBM SkillsBuild
+- **File:** `ProjectManagementFundamentals_Badge`
+- **Course:** Project Management Fundamentals (self-paced training)
+- **Result:** 100% completed
+- **Issuer:** IBM SkillsBuild
+- **Date:** August 27, 2026
+
+
 ### Intro to SQL – Kaggle
-- **File:** `Intro to SQL.png.pdf`
+- **File:** `Intro to SQL.png`
 - **Course:** Intro to SQL (self-paced training)
 - **Result:** 100% completed
 - **Issuer:** Kaggle
