@@ -1,6 +1,6 @@
 # Certifications
 
-A collection of my professional certifications and training completions.
+A collection of my professional certifications and training completions (folder 'certifications')
 
 ## 📄 Certificates
 
