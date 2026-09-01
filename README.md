@@ -11,6 +11,22 @@ A collection of my professional certifications and training completions (folder 
 - **Issuer:** UNIDO
 - **Date:** September 01, 2026
 
+### ISO 14971:2019 - Risk Management Medical Devices
+- **File:** `SkillMed-Certificate-SM-14971`
+- **Course:** ISO 14971:2019 - Risk Management Medical Devices
+- **Result:** 100% completed
+- **Issuer:** SkillMed
+- **Date:** August 29, 2026
+
+### ISO 13485:2016 - Quality Management System for Medical De
+vices
+- **File:** `SkillMed-Certificate-SM-13485`
+- **Course:** ISO 13485:2016 - Quality Management System for Medical De
+vices
+- **Result:** 100% completed
+- **Issuer:** SkillMed
+- **Date:** August 29, 2026
+
 ### Project Management Fundamentals - IBM SkillsBuild
 - **File:** `ProjectManagementFundamentals_Badge.pdf`
 - **Course:** Project Management Fundamentals (self-paced training)
