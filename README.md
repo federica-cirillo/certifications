@@ -4,8 +4,15 @@ A collection of my professional certifications and training completions.
 
 ## 📄 Certificates
 
+### Root Cause Analysis (RCA) and Corrective Action and Preventive Action (CAPA), Quality Management Tool
+- **File:** `RCA_and_CAPA-UNIDO_Certificate_of_Completion_693.pdf`
+- **Course:** Root Cause Analysis (RCA) and Corrective Action and Preventive Action (CAPA), Quality Management Tool (self-paced training)
+- **Result:** 100% completed
+- **Issuer:** UNIDO
+- **Date:** September 01, 2026
+
 ### Project Management Fundamentals - IBM SkillsBuild
-- **File:** `ProjectManagementFundamentals_Badge`
+- **File:** `ProjectManagementFundamentals_Badge.pdf`
 - **Course:** Project Management Fundamentals (self-paced training)
 - **Result:** 100% completed
 - **Issuer:** IBM SkillsBuild
@@ -47,15 +54,3 @@ A collection of my professional certifications and training completions.
 - **Result:** 100% completed
 - **Issuer:** MathWorks Training Services
 - **Date:** November 3, 2023
-
-## Structure
-
-```
-certifications/
-  ├── Intro to SQL.png
-  ├── EF_SET_Certificate.pdf
-  ├── gtec-masterclass.pdf
-  ├── corso-sicurezza-L1.pdf
-  └── ml-onramp-certificate.pdf
-README.md
-```
