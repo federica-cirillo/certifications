@@ -15,10 +15,10 @@ A collection of my professional certifications and training completions (folder 
 </details>
 
 <details>
-<summary><strong>ISO 14971:2019 - Risk Management Medical Devices</strong></summary>
+<summary><strong>ISO 14971:2019 – Risk Management Medical Devices</strong></summary>
 
 - **File:** `SkillMed-Certificate-SM-14971`
-- **Course:** ISO 14971:2019 - Risk Management Medical Devices
+- **Course:** ISO 14971:2019 – Risk Management Medical Devices
 - **Result:** 100% completed
 - **Issuer:** SkillMed
 - **Date:** August 29, 2026
@@ -26,11 +26,10 @@ A collection of my professional certifications and training completions (folder 
 </details>
 
 <details>
-<summary><strong>ISO 13485:2016 - Quality Management System for Medical Devices</strong></summary>
+<summary><strong>ISO 13485:2016 – Quality Management System for Medical Devices</strong></summary>
 
 - **File:** `SkillMed-Certificate-SM-13485`
-- **Course:** ISO 13485:2016 - Quality Management System for Medical De
-vices
+- **Course:** ISO 13485:2016 – Quality Management System for Medical Devices
 - **Result:** 100% completed
 - **Issuer:** SkillMed
 - **Date:** August 29, 2026
@@ -38,7 +37,7 @@ vices
 </details>
 
 <details>
-<summary><strong>Project Management Fundamentals - IBM SkillsBuild</strong></summary>
+<summary><strong>Project Management Fundamentals – IBM SkillsBuild</strong></summary>
 
 - **File:** `ProjectManagementFundamentals_Badge.pdf`
 - **Course:** Project Management Fundamentals (self-paced training)
