@@ -3,22 +3,24 @@
 A collection of my professional certifications and training completions (folder 'certifications')
 
 ## 📄 Certificates
-
-### Root Cause Analysis (RCA) and Corrective Action and Preventive Action (CAPA), Quality Management Tool
+<details>
+<summary><strong>Root Cause Analysis (RCA) and Corrective Action and Preventive Action (CAPA), Quality Management Tool
 - **File:** `RCA_and_CAPA-UNIDO_Certificate_of_Completion_693.pdf`
 - **Course:** Root Cause Analysis (RCA) and Corrective Action and Preventive Action (CAPA), Quality Management Tool (self-paced training)
 - **Result:** 100% completed
 - **Issuer:** UNIDO
 - **Date:** September 01, 2026
 
-### ISO 14971:2019 - Risk Management Medical Devices
+<details>
+<summary><strong>ISO 14971:2019 - Risk Management Medical Devices
 - **File:** `SkillMed-Certificate-SM-14971`
 - **Course:** ISO 14971:2019 - Risk Management Medical Devices
 - **Result:** 100% completed
 - **Issuer:** SkillMed
 - **Date:** August 29, 2026
 
-### ISO 13485:2016 - Quality Management System for Medical De
+<details>
+<summary><strong>ISO 13485:2016 - Quality Management System for Medical De
 vices
 - **File:** `SkillMed-Certificate-SM-13485`
 - **Course:** ISO 13485:2016 - Quality Management System for Medical De
@@ -27,7 +29,8 @@ vices
 - **Issuer:** SkillMed
 - **Date:** August 29, 2026
 
-### Project Management Fundamentals - IBM SkillsBuild
+<details>
+<summary><strong>Project Management Fundamentals - IBM SkillsBuild
 - **File:** `ProjectManagementFundamentals_Badge.pdf`
 - **Course:** Project Management Fundamentals (self-paced training)
 - **Result:** 100% completed
@@ -35,14 +38,16 @@ vices
 - **Date:** August 27, 2026
 
 
-### Intro to SQL – Kaggle
+<details>
+<summary><strong>Intro to SQL – Kaggle
 - **File:** `Intro to SQL.png`
 - **Course:** Intro to SQL (self-paced training)
 - **Result:** 100% completed
 - **Issuer:** Kaggle
 - **Date:** August 08, 2026
 
-### English Language – EF SET Certificate
+<details>
+<summary><strong>English Language – EF SET Certificate
 - **File:** `certifications/EF_SET_Certificate.pdf`
 - **Level:** C1 Advanced (61/100 on the EF SET scale) — CEFR framework
   - Reading: C1 Advanced
@@ -52,13 +57,15 @@ vices
 - **Issued:** July 08, 2026
 - **Verification:** [cert.efset.org/it/p6w9XY](https://cert.efset.org/en/H476SA)
 
-### BCI & Unity Masterclass – g.tec
+<details>
+<summary><strong>BCI & Unity Masterclass – g.tec
 - **File:** `certifications/gtec-masterclass.pdf`
 - **Title:** "BCI & Unity Masterclass: From games to neuroadaptive systems"
 - **Issuer:** g.tec medical engineering GmbH
 - **Date:** October 29, 2025
 
-### Workplace Health & Safety Training – Università di Napoli Federico II
+<details>
+<summary><strong>Workplace Health & Safety Training – Università di Napoli Federico II
 - **File:** `certifications/corso-sicurezza-L1.pdf`
 - **Course:** "Formazione base sulla sicurezza e salute sui luoghi di lavoro" (4-hour internal training)
 - **Issuer:** Università degli Studi di Napoli Federico II
