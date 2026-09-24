@@ -6,11 +6,11 @@ A collection of my professional certifications and training completions (folder 
 <details>
 <summary><strong>Root Cause Analysis (RCA) and Corrective Action and Preventive Action (CAPA), Quality Management Tool
 
-- **File:** `RCA_and_CAPA-UNIDO_Certificate_of_Completion_693.pdf`
-- **Course:** Root Cause Analysis (RCA) and Corrective Action and Preventive Action (CAPA), Quality Management Tool (self-paced training)
-- **Result:** 100% completed
-- **Issuer:** UNIDO
-- **Date:** September 01, 2026
+  - **File:** `RCA_and_CAPA-UNIDO_Certificate_of_Completion_693.pdf`
+  - **Course:** Root Cause Analysis (RCA) and Corrective Action and Preventive Action (CAPA), Quality Management Tool (self-paced training)
+  - **Result:** 100% completed
+  - **Issuer:** UNIDO
+  - **Date:** September 01, 2026
 
 <details>
 <summary><strong>ISO 14971:2019 - Risk Management Medical Devices
