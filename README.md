@@ -4,7 +4,7 @@ A collection of my professional certifications and training completions (folder 
 
 ## 📄 Certificates
 <details>
-<summary><strong>Root Cause Analysis (RCA) and Corrective Action and Preventive Action (CAPA), Quality Management Tool</strong>strong></summary>
+<summary><strong>Root Cause Analysis (RCA) and Corrective Action and Preventive Action (CAPA), Quality Management Tool</strong></summary>
 
 - **File:** `RCA_and_CAPA-UNIDO_Certificate_of_Completion_693.pdf`
 - **Course:** Root Cause Analysis (RCA) and Corrective Action and Preventive Action (CAPA), Quality Management Tool (self-paced training)
