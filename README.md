@@ -17,7 +17,7 @@ A collection of my professional certifications and training completions
 <details>
 <summary><strong>ISO 14971:2019 – Risk Management Medical Devices</strong></summary>
 
-- **File:** `SkillMed-Certificate-SM-14971`
+- **File:** `SkillMed-Certificate-SM-14971.pdf`
 - **Course:** ISO 14971:2019 – Risk Management Medical Devices
 - **Result:** 100% completed
 - **Issuer:** SkillMed
@@ -28,7 +28,7 @@ A collection of my professional certifications and training completions
 <details>
 <summary><strong>ISO 13485:2016 – Quality Management System for Medical Devices</strong></summary>
 
-- **File:** `SkillMed-Certificate-SM-13485`
+- **File:** `SkillMed-Certificate-SM-13485.pdf`
 - **Course:** ISO 13485:2016 – Quality Management System for Medical Devices
 - **Result:** 100% completed
 - **Issuer:** SkillMed
@@ -61,7 +61,7 @@ A collection of my professional certifications and training completions
 <details>
 <summary><strong>English Language – EF SET Certificate</strong></summary>
 
-- **File:** `certifications/EF_SET_Certificate.pdf`
+- **File:** `EF_SET_Certificate.pdf`
 - **Level:** C1 Advanced (61/100 on the EF SET scale) — CEFR framework
   - Reading: C1 Advanced
   - Listening: C2 Proficient
@@ -75,7 +75,7 @@ A collection of my professional certifications and training completions
 <details>
 <summary><strong>BCI & Unity Masterclass – g.tec</strong></summary>
 
-- **File:** `certifications/gtec-masterclass.pdf`
+- **File:** `gtec-masterclass.pdf`
 - **Title:** "BCI & Unity Masterclass: From games to neuroadaptive systems"
 - **Issuer:** g.tec medical engineering GmbH
 - **Date:** October 29, 2025
@@ -85,7 +85,7 @@ A collection of my professional certifications and training completions
 <details>
 <summary><strong>Workplace Health & Safety Training – Università di Napoli Federico II</strong></summary>
 
-- **File:** `certifications/corso-sicurezza-L1.pdf`
+- **File:** `corso-sicurezza-L1.pdf`
 - **Course:** "Formazione base sulla sicurezza e salute sui luoghi di lavoro" (4-hour internal training)
 - **Issuer:** Università degli Studi di Napoli Federico II
 - **Date:** September 20, 2025
@@ -95,7 +95,7 @@ A collection of my professional certifications and training completions
 <details>
 <summary><strong>Machine Learning Onramp – MathWorks</strong></summary>
 
-- **File:** `certifications/ml-onramp-certificate.pdf`
+- **File:** `ml-onramp-certificate.pdf`
 - **Course:** Machine Learning Onramp (self-paced training)
 - **Result:** 100% completed
 - **Issuer:** MathWorks Training Services
